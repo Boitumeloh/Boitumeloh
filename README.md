@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on any Python or Javascript/HTML/CSS/React/Git projects
 - 📫 How to reach me by email : boitumelolefophane@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact:i dont like bugs 
+- ⚡Pronouns: he/him
+- 😄 Fun fact:i dont like bugs
 
 <!---
 Boitumeloh/Boitumeloh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
